@@ -12,3 +12,4 @@ function Aboutcard () {
     )}
 
 <footer className="blockquote-footer">Yesenia Benitez</footer>
+export default AboutCard;
