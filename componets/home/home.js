@@ -30,3 +30,4 @@ function Home() {
       </Container>
       </section>
   )}
+export default Home;
