@@ -26,3 +26,8 @@ function About() {
             style={{ paddingTop: "120px", paddingBottom: "50px" }}
             className="about-img"
           ></Col>
+          </Row>
+        <h1 className="project-heading">
+            <strong className="pink">My Skill Sets</strong>
+            </h1>
+           
